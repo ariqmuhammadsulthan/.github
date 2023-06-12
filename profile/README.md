@@ -8,7 +8,7 @@ Hello World! We're a team consist of 6 peoples from around Indonesia in a progra
    <summary align="center">More Information</summary>
 
 <h2 align="center">Hangout Cuk!</h2>
-<p align="center"><img src="https://github.com/HangoutYuk/.github/blob/main/profile/sarapan.png"/></p>
+<p align="center"><img src="https://github.com/HangoutYuk/.github/blob/main/profile/sarapan.PNG"/></p>
 
 **HangoutYuk!** (or **HaYuk!**) is the solution to easily planning hangout events with your friends and family. Everyone is longing to reunite with their loved ones after the pandemic, but with the overwhelming (or limited) amount of information that is available, the process of planning hangouts can be challenging and time-consuming for most people, leading to the outcome of cancelled plans and unrealized reunions. With HaYuk!, there is no need to worry any longer, as it provides the necessary features for users to effectively gather with their acquaintances in a streamlined manner at a place that fits everyone’s needs. Using the Google Maps API, HaYuk! gathers information on the local hotspots in a user’s area and recommends the best ones for them to use in their gathering events. HaYuk! also implements a group chat with voting and enrollment features to facilitate users' needs for efficient group decision-making. Additionally, HaYuk! closely works with business SMEs to support the development of digital tourism and enhance the economic development of nearby communities.
 
