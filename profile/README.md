@@ -74,7 +74,7 @@ In layman's terms, the learning paths of our team can be categorized into the fo
 
 ### Cloud Computing
 
-1. [HangoutYuk! Backend API](https://github.com/HangoutYuk/hayuk-api).
+1. [HangoutYuk! Backend API](https://github.com/HangoutYuk/hayuk-api)
 2. [HangoutYuk! Vote API](https://github.com/HangoutYuk/hayuk-vote-api)
 
 ### Machine Learning
