@@ -42,7 +42,7 @@ In layman's terms, the learning paths of our team can be categorized into the fo
 </p>
 
 <p align="justify">
-<strong>Machine Learning</strong> builds and develops the recommendation model of hangout places based on several variables, such as distance and analysis of comments using NLP. Building model with TensorFlow, using ML Endpoint to deliver recommendations, and preprocess the data using pandas.
+<strong>Machine Learning</strong> builds and develops the recommendation model of hangout places based on several variables, such as distance and analysis of comments using NLP. Building models with TensorFlow, using ML Endpoint to deliver recommendations, and preprocessing the data using pandas.
 </p>
 
 <p align="justify">
