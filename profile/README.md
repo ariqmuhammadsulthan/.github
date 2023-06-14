@@ -16,8 +16,8 @@ We're from <strong>C23-PS078</strong>, a team consisting of six talented people 
 <details>
    <summary align="center"><strong>More Information</strong></summary>
 
-<h2>What is "HangoutYuk!"?</h2>
-<p align="center"><img src="https://github.com/HangoutYuk/.github/blob/main/profile/sarapan.PNG"/></p>
+<h2 align="center">HangoutYuk!</h2>
+<p align="center"><img src="https://github.com/HangoutYuk/.github/blob/main/profile/banner.png"/></p>
 
 <p align="justify">
 <strong>HangoutYuk!</strong> (or <strong>HaYuk!</strong>) is the solution to easily planning hangout events with your friends and family. Everyone is longing to reunite with their loved ones after the pandemic, but with the overwhelming (or limited) amount of information that is available, the process of planning hangouts can be challenging and time-consuming for most people, leading to the outcome of cancelled plans and unrealized reunions. With HaYuk!, there is no need to worry any longer, as it provides the necessary features for users to effectively gather with their acquaintances in a streamlined manner at a place that fits everyone’s needs. Additionally, HaYuk! closely works with business SMEs to support the development of digital tourism and enhance the economic development of nearby communities.
@@ -27,7 +27,7 @@ We're from <strong>C23-PS078</strong>, a team consisting of six talented people 
    <br>
    Download Now!
    <br>
-   <a href="./README.md"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://github.com/HangoutYuk/hayuk-android/releases/download/1.0/HangoutYuk-v1.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </p>
 
 ## Our Team
