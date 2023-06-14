@@ -16,7 +16,7 @@ Hello World! We're a team consist of 6 peoples from around Indonesia in a progra
     <br>
    Download Now!(masih nunggu link APK)
    <br>
-   <a href="./README.md"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://github.com/HangoutYuk/hayuk-android/releases/download/1.0/HangoutYuk-v1.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </p>
 
 ## Our Teams
